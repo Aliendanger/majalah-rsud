@@ -10,5 +10,11 @@
     "file": "MARS_Edisi_2.pdf",
     "sampul": "mars2.webp",
     "tanggal": "2026-01-01"
+  },
+    {
+    "judul": "MARS Edisi 3",
+    "file": "MARS_Edisi_3.pdf",
+    "sampul": "mars3.webp",
+    "tanggal": "2026-11-10"
   }
 ]
